@@ -8,10 +8,11 @@ public class HelloWorld {
         printHelloName();
     }
     public static void printHelloName(){
-        Scanner scanner = new Scanner(System.in);
+        Scanner userInput = new Scanner(System.in);
         System.out.print("Please enter your name: ");
-        String name = scanner.nextLine();
+        String name = userInput.nextLine();
         System.out.println("Hello " + name + ".");
-        scanner.close();
+        userInput.close();
     }
 }
+                          
