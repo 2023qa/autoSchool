@@ -1,1 +1,7 @@
+1 Two natural numbers are stored in the variables q and w. Create a program that displays the result of dividing q by w with a remainder. Example of the program output (for the case when q stores 21 and w stores 8): 21 / 8 = 2 and 5 in the remainder
 
+2 The variable n stores a natural two-digit number. Create a program that calculates and displays the sum of digits of n.
+
+3 A real number with a non-zero fractional part is stored in the variable n. Create a program that rounds the number n to the nearest integer and displays the result on the screen.
+
+4 Given three variables a, b and c. Change the values of these variables so that a stores the value of a+b, b stores the difference of the old values of c-a, and c stores the sum of the old values of a+b+c. For example, a=0, b=2, c=5, then the new values are a=2, b=5 and c=7.
