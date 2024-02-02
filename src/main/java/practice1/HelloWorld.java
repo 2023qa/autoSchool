@@ -10,7 +10,7 @@ public class HelloWorld {
 
     public static void printHelloName() {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Please enter Your name: ");
+        System.out.print("Please Enter Your Name: ");
         String name = scanner.nextLine();
         System.out.println("Hello " + name + ".");
         scanner.close();
