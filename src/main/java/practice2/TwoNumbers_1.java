@@ -1,8 +1,6 @@
 package practice2;
 
-import java.util.Scanner;
-
-public class TwoNumbers {
+public class TwoNumbers_1 {
     public static void main (String[] args){
 
         // Two numbers
