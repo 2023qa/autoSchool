@@ -9,13 +9,12 @@ public class TwoNumbers {
         int q = 21;
         int w = 8;
 
-        // calculation
-
+        // Calculation
         int calc1 = q / w;
         int remainder = q % w;
 
-        //Display result
-        System.out.println(q+"/"+ w + " = " + calc1 + " and the remainder is : " + remainder);
+        // Display result
+        System.out.println(q+"/"+ w + " = " + calc1 + " and the remainder is = " + remainder);
 
     }
 }
