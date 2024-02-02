@@ -15,7 +15,7 @@ public class TwoNumbers {
         int remainder = q % w;
 
         //Display result
-        System.out.println(q+"/"+ w + " = " + calc1 + " and the remainder is = " + remainder);
+        System.out.println(q+"/"+ w + " = " + calc1 + " and the remainder is : " + remainder);
 
     }
 }
